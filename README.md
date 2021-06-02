@@ -1,7 +1,7 @@
 # Hi <img src="wave.gif" width="30px">
 My name is Dhanesh Joshi and I'm a Computer Engineering Student.
 
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dhanesh-joshi//) [![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhaneshjoshi1234@gmail.com)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dhanesh-joshi/) [![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhaneshjoshi1234@gmail.com)
 
 
 ## 🔧 Technologies & Tools
