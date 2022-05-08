@@ -6,7 +6,7 @@ My name is Dhanesh Joshi and I'm a Computer Engineering Student.
 
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel%20-%red.svg?&style=for-the-badge&logo=laravel&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel%20-%23E34F26.svg?&style=for-the-badge&logo=laravel&logoColor=Red)
 ![php](https://img.shields.io/badge/php%20-%23E34F26.svg?&style=for-the-badge&logo=php&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask%20-%23E34F26.svg?&style=for-the-badge&logo=flask&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
