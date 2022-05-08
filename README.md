@@ -1,12 +1,13 @@
 # Hi <img src="wave.gif" width="30px">
 My name is Dhanesh Joshi and I'm a Computer Engineering Student.
 
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dhanesh-joshi/) [![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhaneshjoshi1234@gmail.com)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dhanesh-joshi/) 
+[![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhaneshjoshi1234@gmail.com)
 
 
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel%20-%23E34F26.svg?&style=for-the-badge&logo=laravel&logoColor=Red)
+![Laravel](https://img.shields.io/badge/laravel-D14836?&style=for-the-badge&logo=laravel&logoColor=white)
 ![php](https://img.shields.io/badge/php%20-%23E34F26.svg?&style=for-the-badge&logo=php&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask%20-%23E34F26.svg?&style=for-the-badge&logo=flask&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
