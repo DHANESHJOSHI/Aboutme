@@ -1,6 +1,8 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi <img src="wave.gif" width="30px">, I'm Dhanesh B Joshi</h1>
-<h3 align="center">A passionate frontend developer, Self-learner Programmer and learning Web Development, React Js Developer | PHP Developer | Android Developer | Web Developer | Java Programmer | Python Developer...🚀 from India.</h3>
+
+<h3 align="center">A passionate frontend developer And Self-learner Programmer...🚀 from India.</h3>
+
 <p align="left"><img src="code.webp" width="410px"> <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="right">
 
