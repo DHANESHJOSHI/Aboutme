@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **Dhaneshjoshi1234@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/dhanesh-joshi](www.linkedin.com/in/dhanesh-joshi)
+- 📄 Know about my experiences [click here](www.linkedin.com/in/dhanesh-joshi)
 
 - ⚡ Fun fact **I think I don't know how to code in new language**
 
