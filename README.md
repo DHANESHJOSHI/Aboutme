@@ -1,7 +1,12 @@
-[![MasterHead] <img src="coder.gif" width="600px">
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi <img src="wave.gif" width="30px">, I'm Dhanesh B Joshi</h1>
 <h3 align="center">A passionate frontend developer, Self-learner Programmer and learning Web Development, React Js Developer | PHP Developer | Android Developer | Web Developer | Java Programmer | Python Developer...🚀 from India.</h3>
+<p align="left"><img src="code.webp" width="410px"> <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="right">
 
+  
+  
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhaneshjoshi&label=Profile%20views&color=0e75b6&style=flat" alt="dhaneshjoshi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhaneshjoshi" alt="dhaneshjoshi" /></a> </p>
@@ -11,7 +16,7 @@
 - 🌱 I’m currently learning **Node JS, Laravel, CI, Kotlin, Flutter**
 
 - 🤝 I’m looking for help with [PHP](Coming Soon)
-
+- 
 - 📝 I regularly write articles on [https://www.flowcode.com/page/techwithjoshi](https://www.flowcode.com/page/techwithjoshi)
 
 - 💬 Ask me about **C, c++, php, react, node ,laravel**
