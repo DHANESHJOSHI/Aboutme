@@ -1,3 +1,4 @@
+[![MasterHead] <img src="coder.gif" width="600px">
 <h1 align="center">Hi <img src="wave.gif" width="30px">, I'm Dhanesh B Joshi</h1>
 <h3 align="center">A passionate frontend developer, Self-learner Programmer and learning Web Development, React Js Developer | PHP Developer | Android Developer | Web Developer | Java Programmer | Python Developer...🚀 from India.</h3>
 
