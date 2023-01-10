@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://camo.githubusercontent.com/7b0d7056cf528da8971844af6dab6d746144ac7ef9b77af605ab7e3d3bc8a458/68747470733a2f2f6c6f6769636d6f6a6f2e636f6d2f6173736574732f646973742f6e65775f70616765732f696d616765732f6a732d6769662e676966)
 <h1 align="center">Hi <img src="wave.gif" width="5px" hight="5px">, I'm Dhanesh B Joshi</h1>
 
 <h3 align="center">A passionate frontend developer | Self-learner Programmer | React Js Developer | PHP Developer | Android Developer | Web Developer | Java Programmer | Python Developer...🚀 from India.</h3>
@@ -7,11 +7,11 @@
 <p align="right">
 
   
-  
+  ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhaneshjoshi&label=Profile%20views&color=0e75b6&style=flat" alt="dhaneshjoshi" /> </p>
-<!-- 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhaneshjoshi" alt="dhaneshjoshi" /></a> </p> -->
+ 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhaneshjoshi" alt="dhaneshjoshi" /></a> </p> 
 
 - 🔭 I’m currently working on [Portfolio](https://portfoliov1-techwithjoshi.vercel.app/)
 
@@ -28,7 +28,7 @@
 - 📄 Know about my experiences [click here](www.linkedin.com/in/dhanesh-joshi)
 
 - ⚡ Fun fact **I think I don't know how to code in new language**
-![MasterHead](https://camo.githubusercontent.com/7b0d7056cf528da8971844af6dab6d746144ac7ef9b77af605ab7e3d3bc8a458/68747470733a2f2f6c6f6769636d6f6a6f2e636f6d2f6173736574732f646973742f6e65775f70616765732f696d616765732f6a732d6769662e676966)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
