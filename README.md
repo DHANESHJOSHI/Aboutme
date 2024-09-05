@@ -1,5 +1,5 @@
-![MasterHead](
-(https://miro.medium.com/v2/resize:fit:3200/format:webp/1*i8-u-V8LTTbQwTeUwLI_BQ.gif))
+![MasterHead](https://miro.medium.com/v2/resize:fit:3200/format:webp/1*i8-u-V8LTTbQwTeUwLI_BQ.gif)
+
 <h1 align="center">Hi <img src="wave.gif" width="5px" hight="5px">, I'm Dhanesh B Joshi</h1>
 
 <h3 align="center">A passionate frontend developer | Self-learner Programmer | React Js Developer | PHP Developer | Android Developer | Web Developer | Java Programmer | Python Developer...🚀 from India.</h3>
