@@ -1,4 +1,4 @@
-![MasterHead]([https://camo.githubusercontent.com/7b0d7056cf528da8971844af6dab6d746144ac7ef9b77af605ab7e3d3bc8a458/68747470733a2f2f6c6f6769636d6f6a6f2e636f6d2f6173736574732f646973742f6e65775f70616765732f696d616765732f6a732d6769662e676966]
+![MasterHead](
 (https://miro.medium.com/v2/resize:fit:3200/format:webp/1*i8-u-V8LTTbQwTeUwLI_BQ.gif))
 <h1 align="center">Hi <img src="wave.gif" width="5px" hight="5px">, I'm Dhanesh B Joshi</h1>
 
